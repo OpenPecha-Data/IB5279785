@@ -1,16 +1,17 @@
-id: opecha:P000322
+id: P000322
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG23697
   title: རྟེན་འབྲེལ་ཟབ་མོའི་བརྗོད་བྱ་སྣ་ཚོགས་པ་ཕྱོགས་གཅིག་ཏུ་བསྡེབས་པ་སྐལ་ལྡན་ཡིད་འཕྲོག
-  volume:
+  author: ''
+  volumes:
     e9c4d1305c3b4171bb7d8003a5458f3e:
       image_group_id: I1KG23780
       title: Volume 1 of rten 'brel zab mo'i brjod bya sna tshogs pa phyogs gcig tu
         bsdebs pa skal ldan yid 'phrog
       volume_number: 1
       total_pages: 270
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྟེན་འབྲེལ་ཟབ་མོའི་བརྗོད་བྱ་སྣ་ཚོགས་པ་ཕྱོགས་གཅིག་ཏུ་བསྡེབས་པ་སྐལ་ལྡན་ཡིད་འཕྲོག
   author: ''
